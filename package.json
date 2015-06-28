@@ -1,7 +1,7 @@
 {
   "name": "monokai-shade",
   "theme": "syntax",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "A Monokai syntax theme variant with some subtle, relaxing tweaks",
   "repository": {
     "type": "git",
