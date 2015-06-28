@@ -1,7 +1,7 @@
 {
   "name": "monokai-shade",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "A Monokai syntax theme variant with some subtle, relaxing tweaks",
   "repository": {
     "type": "git",
@@ -12,7 +12,7 @@
   ],
   "license": "MIT",
   "engines": {
-    "atom": ">0.39.0"
+    "atom": ">0.50.0"
   },
   "bugs": {
     "url": "https://github.com/amp343/monokai-shade/issues"
