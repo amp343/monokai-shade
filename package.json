@@ -1,0 +1,21 @@
+{
+  "name": "monokai-shade",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A Monokai syntax theme variant designed to go easy on the eyes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amp343/monokai-shade"
+  },
+  "keywords": [
+    "monokai"
+  ],
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.39.0"
+  },
+  "bugs": {
+    "url": "https://github.com/amp343/monokai-shade/issues"
+  },
+  "homepage": "https://github.com/amp343/monokai-shade"
+}
